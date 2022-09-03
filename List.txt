@@ -23,3 +23,5 @@ Divvys nation
 1|0|1|7|6|u|0|_|a|1|7|6
 Davvys nation
 1|0|2|3|2|u|0|_|a|2|3|2
+Armsty
+1|0|2|0|7|u|0|_|a|2|0|7
